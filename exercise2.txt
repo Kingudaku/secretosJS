@@ -1,0 +1,7 @@
+El Capitán DC está presentando problemas para navegar la nave espacial. Una y otra vez indica la dirección para entrar en la trayectoria correcta,
+ pero misteriosamente la nave sigue cambiando de dirección sin su autorización.
+
+La estación espacial revisó los registros e identifico las siguientes vulnerabilidades:
+
+Es posible clonar la llave de acceso a la nave desde la propiedad _spaceShipKey del Capitán DC.
+Es posible clonar la llave de acceso a la nave desde la propiedad _key de la misma nave.

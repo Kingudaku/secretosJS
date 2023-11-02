@@ -1,0 +1,7 @@
+El Capitan DC envió un mensaje por medio del Satélite Platzi Sat01 para avisarnos que el sistema de comunicación presenta vulnerabilidades.
+
+Nuestro equipo ejecutó una función de simulación e identificó los siguientes problemas:
+
+El satélite no valida si quien envía el mensaje es astronauta
+El satélite no valida si quien recibe el mensaje es una estación espacial
+El satélite no valida si quien envía el mensaje es parte de la tripulación de la estación espacial que recibe el mensaje
